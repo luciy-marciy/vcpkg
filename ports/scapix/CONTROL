@@ -1,0 +1,3 @@
+Source: scapix
+Version: 1.0.16
+Description: Automatic, on the fly bindings from C++ to Java, Objective-C, Swift, Python, JavaScript (WebAssembly) and C#.
